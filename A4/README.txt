@@ -1,0 +1,1 @@
+Simply click 'run all' in the python notebook and all relevant figures and tables will appear after the neural network is trained and assessed.
